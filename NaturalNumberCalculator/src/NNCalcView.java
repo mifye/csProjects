@@ -5,7 +5,7 @@ import components.naturalnumber.NaturalNumber;
 /**
  * View interface.
  *
- * @author Bruce W. Weide
+ * @author Micah Casey-Fusco
  */
 public interface NNCalcView extends ActionListener {
 
